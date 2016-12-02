@@ -1,0 +1,8 @@
+{
+    "menu": "Menu",
+    "home": {
+        "title": "Início",
+        "card-header": "Bem vindo ao Angular2-Meteor com Ionic2",
+        "card-content": "Este projeto está pronto para ter autenticação por email/password e internacionalização com ng2-translate"
+    }
+}
